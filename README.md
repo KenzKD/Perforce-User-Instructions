@@ -38,4 +38,13 @@ Hit OK
 p4 set P4IGNORE=.p4ignore
 ```
 
-### 5)
+### 5) When you open P4V now, it should look similar to this: 
+
+![image](https://user-images.githubusercontent.com/65004578/177275940-922792c0-a171-45d2-9131-0b061ac42af6.png)
+
+Go to the Workspace tab, Select the Folder and then click on the "Get Latest" Icon to ensure that you get the latest project files.
+
+![image](https://user-images.githubusercontent.com/65004578/177276235-eead9331-e740-4117-af17-124a6ee2e839.png)
+
+### 6) From this point on, You can follow along this [Video](https://youtu.be/7PRo8gK6SNM)
+ This will show you how to connect to the server through UE5 and some of the other basic ways to use Helix Core
