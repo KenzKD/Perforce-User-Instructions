@@ -56,5 +56,5 @@ Go to the Workspace tab, Select the Folder and then click on the "Get Latest" Ic
   <img src="https://user-images.githubusercontent.com/65004578/177276235-eead9331-e740-4117-af17-124a6ee2e839.png" width=90% height=90%>
 </p>
 
-### 6) From this point on, You can follow along this [Video](https://youtu.be/7PRo8gK6SNM)
+### 6) (Optional for those in the Blender Dept) From this point on, You can follow along this [Video](https://youtu.be/7PRo8gK6SNM)
  This will show you how to connect to the server through UE5 and some of the other basic ways to use Helix Core
