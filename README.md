@@ -57,4 +57,8 @@ Go to the Workspace tab, Select the Folder and then click on the "Get Latest" Ic
 </p>
 
 ### 6) (Optional for those in the Blender Dept) From this point on, You can follow along this [Video](https://youtu.be/7PRo8gK6SNM)
- This will show you how to connect to the server through UE5 and some of the other basic ways to use Helix Core
+ 
+ This will show you how to connect to the server through UE5 and some of the other basic ways to use Helix Core. The Steps in the video will only work for the project you have in your workspace.
+ 
+ You can open the project by double clicking on .uproject file in your workspace.
+ (Club Members may get an error saying that you don't have a plugin installed. This plugin is not needed so click 'Yes' to continue.
